@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Dnd_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\Dnd_ProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\UE4Editor\Development\Dnd_Project\Dnd_Project.cpp.obj"
+"C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\UE4Editor\Development\Dnd_Project\Dnd_ProjectGameModeBase.cpp.obj"
+"C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\UE4Editor\Development\Dnd_Project\Dnd_Project.init.gen.cpp.obj"
+"C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\UE4Editor\Development\Dnd_Project\Dnd_ProjectGameModeBase.gen.cpp.obj"
+"C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\UE4Editor\Development\Dnd_Project\Default.rc2.res"
+/OUT:"C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\UE4Editor\Development\Dnd_Project\UE4Editor-Dnd_Project.lib"
+/INCLUDE:IMPLEMENT_MODULE_Dnd_Project

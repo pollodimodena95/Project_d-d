@@ -1,0 +1,3 @@
+C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\UE4Editor\Development\Dnd_Project\Definitions.Dnd_Project.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

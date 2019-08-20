@@ -1,0 +1,2 @@
+C:\Users\Pollo Wagan\Documents\casual project unreal\Dnd_Project\Dnd_Project\Intermediate\Build\Win64\UE4Editor\Development\Dnd_Project\Definitions.Dnd_Project.h
+c:\users\pollo wagan\documents\casual project unreal\dnd_project\dnd_project\source\dnd_project\Dnd_Project.h
